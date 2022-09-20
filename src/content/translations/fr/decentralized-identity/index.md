@@ -177,6 +177,7 @@ Il existe de nombreux projets ambitieux utilisant Ethereum comme base pour des s
 - [Connexion avec Ethereum et Decentralized Identity avec Ceramic, IDX, React, et 3ID Connect](https://www.youtube.com/watch?v=t9gWZYJxk7c) — _tutoriel YouTube sur la création d'un système de gestion d'identité pour créer, lire et mettre à jour un profil d'utilisateur en utilisant son portefeuille Ethereum par Nader Dabit_
 - [BrightID - Identité décentralisée sur Ethereum](https://www.youtube.com/watch?v=D3DbMFYGRoM) — _Épisode de podcast non bancaire parlant de BrightID, une solution d'identité décentralisée pour Ethereum_
 - [The Off Chain Internet : Identités décentralisées & Références vérifiables](https://www.youtube.com/watch?v=Ez_Bb6j87mg) — _Présentation EthDenver 2022 par Evin McMullen_
+- [Une preuve d’existence sur Ethereum pour les enfants sans identités : DID4ALL](https://hal.archives-ouvertes.fr/hal-03232816v2/document#page=50) — _Université de Lille & IN Groupe_
 
 ### Communautés {#communities}
 
