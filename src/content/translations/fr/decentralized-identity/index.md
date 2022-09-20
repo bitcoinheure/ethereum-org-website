@@ -170,6 +170,8 @@ Il existe de nombreux projets ambitieux utilisant Ethereum comme base pour des s
 - [Qu'est-ce qu'Ethereum ERC725 ? Gestion des identités autonomes sur la Blockchain](https://cryptoslate.com/what-is-erc725-self-sovereign-identity-management-on-the-blockchain/) — _Sam Town_
 - [Comment la Blockchain pourrait-elle résoudre le problème de l'identité numérique](https://time.com/6142810/proof-of-humanity/) — _Andrew R. Chow_
 - [Qu'est-ce que l'identité décentralisée et pourquoi devriez-vous vous en préocupper ?](https://web3.hashnode.com/what-is-decentralized-identity) — _Emmanuel Awosika_
+- [Proposition d'une taxonomie française pour l'identité décentralisée](https://hal.archives-ouvertes.fr/hal-03398096/document) — _Thibault Langlois-Berthelot_
+- [Blockchain et souveraineté, les prémices d’une révolution de l’identité numérique](https://hal.archives-ouvertes.fr/hal-03314568v2/document) — _Thibault Langlois-Berthelot_
 
 ### Vidéos {#videos}
 
